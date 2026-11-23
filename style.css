@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.cv1{
+    display: flex;
+    align-items: center;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+    padding: 25px 0px;
+}
+.cv2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.cv3{
+    display: flex;
+    gap: 30px;
+}
+.rt{
+    border: none;
+    background-color: white;
+    border: 2px solid gray;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-weight: 600;
+}
+.l1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.o1{
+    color: #555555;
+}
+.cv4{
+    display: flex;
+    align-items: end;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+    
+}
+.cv5{
+    display: flex;
+    gap: 20px;
+    
+}
+.cv6{
+    display: flex;
+    background-color:#f6f6f6ed;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+.cv7{
+   box-shadow: 0px 0px 10px #efededed; 
+   padding: 30px 15px;
+   border-radius: 10px;
+}
+.h2{
+    background-color: #f6f6f6ed;
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-weight: 400;
+    
+}
+.h3{
+    background-color: #3771C8;
+    padding: 8px;
+    border-radius: 10px;
+}
+.cv8{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    gap: 19px;
+}
+.h4{
+    position: absolute;
+    top: 910px;
+    font-size: 50px;
+    left: 300px;
+}
+.teg{
+    border-radius: 10px;
+    border: 1px solid #F9D15C;
+    padding: 1px;
+    width: 100px;
+}
+.cv9{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    align-items: end;
+    justify-content: space-between;
+}
+.cv10{
+    box-shadow: 0px 0px 5px #e6e6e6ed;
+    width: 280px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+.gc1{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+}
+.gc2{
+    display: flex;
+    justify-content: space-between;
+}
+.rt2{
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    background-color: #3771C8;
+    border-radius: 5px;
+}
+.gc3{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    gap: 60px;
+    align-items: center;
+}
+.gc4{
+    display: flex;
+    align-items: center;
+    max-width: 1110px;
+    justify-content: space-between;
+    margin: auto;
+}
+.em{
+    font-size: 30px;
+}
+.gc5{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+}
+.gc6{
+    display: block;
+    padding: 30px 50px;
+    justify-content: center;
+    background-color: #F9D15C;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.p2{
+    border: 1px solid rgb(236, 236, 236);
+    width: fit-content;
+    padding: 5px 25px;
+    border-radius: 10px;
+    color: gray;
+}
+.gc7{
+    display: flex;
+    gap: 30px;
+}
+.rt3{
+    border: none;
+    background-color: #3771C8;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.mnmn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.gc8{
+    border: 2px solid rgb(236, 236, 236);
+    width: 411px;
+    border-radius: 17px;
+}
+.gc9{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+}
+.rt4{
+    display: flex;
+    background-color: white;
+    width: 480px;
+    border-radius: 50px;
+}
+.mlml{
+      border: none;
+    outline: none;
+    border-radius: 50px;
+    width: 350px;
+    padding: 0px 0px 0px 20px
+}
+.mkmk{
+      border: none;
+      background-color: #3771c8;
+      color: white;
+      padding: 18px 40px;
+      border-radius: 50px;
+}
+.gc10{
+    background-color: #EAECEB;
+    display: flex;
+    align-items: center;
+    max-width: 1220px;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: auto;
+    padding: 0px 0px 0px 60px;
+}
+.tool{
+    display: flex;
+    max-width: 1110px;
+    margin: auto;
+    justify-content: space-between;
+}
